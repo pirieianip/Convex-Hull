@@ -2,6 +2,9 @@ Name: Ian Pirie
 Date: 4/5/2020
 Project: Convex_Hull
 
+Recommendation:
+    This was developed and only tested on Linux.
+
 Compile instruction:
     1. uncompress project
     2. navigate to cmake-build-debug
